@@ -1,1 +1,1 @@
-# Python_Exercices
+# Python_Exercises
